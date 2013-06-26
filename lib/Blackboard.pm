@@ -5,6 +5,7 @@
 ############################################################################
 
 package Blackboard;
+use vars '$VERSION'; $VERSION = '1.0';
 
 use warnings;
 use strict;
